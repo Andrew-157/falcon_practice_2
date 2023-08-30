@@ -8,6 +8,8 @@ falcon = "*"
 ipython = "*"
 waitress = "*"
 httpie = "*"
+hupper = "*"
+msgpack-python = "*"
 
 [dev-packages]
 autopep8 = "*"

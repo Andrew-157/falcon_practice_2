@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8d2ea46947367fece502d071b479035dde50e2733be1149b5ecfc0e8683f06da"
+            "sha256": "f926e4d2307a4c517bbd861c30dd441d07268f7f652b80b593df45777eeef70a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -196,6 +196,14 @@
             "index": "pypi",
             "version": "==3.2.2"
         },
+        "hupper": {
+            "hashes": [
+                "sha256:18b1653d9832c9f8e7d3401986c7e7af2ae6783616be0bc406bfe0b14134a5c6",
+                "sha256:b8bc41bb75939e816f30f118026d0ba99544af4d6992583df3b4813765af27ef"
+            ],
+            "index": "pypi",
+            "version": "==1.12"
+        },
         "idna": {
             "hashes": [
                 "sha256:814f528e8dead7d329833b91c5faa87d60bf71824cd12a7530b5526063d02cb4",
@@ -243,6 +251,13 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==0.1.2"
+        },
+        "msgpack-python": {
+            "hashes": [
+                "sha256:378cc8a6d3545b532dfd149da715abae4fda2a3adb6d74e525d0d5e51f46909b"
+            ],
+            "index": "pypi",
+            "version": "==0.5.6"
         },
         "multidict": {
             "hashes": [
