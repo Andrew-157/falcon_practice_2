@@ -2,3 +2,6 @@ __pycache__
 .vscode
 .env
 .pytest_cache
+test.png
+*.png
+*.xyz
